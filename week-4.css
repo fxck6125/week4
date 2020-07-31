@@ -234,10 +234,11 @@ nav {
 .select li:first-child{
   background-color: #3f5d45;
   color: white;
+  padding: 16px 0px;
 }
 .select li {
   border:solid 1px #EAF0ED;
-  padding: 16px 0px;
+ 
 }
 .select a{
   display: block;
